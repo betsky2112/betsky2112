@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Robert Siagian 👋
 
-<!--
-**betsky2112/betsky2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Front End Developer with a passion for for building scalable web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+## Projects
+- [Todo App](https://github.com/betsky2112/react-todo-app) - A todo app tool built with React JS
+- [Portfolio Web](https://github.com/betsky2112/ma-port) - A responsive portfolio tool built with React JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** JavaScript, Java, Python
+- **Tools:** Git, Figma, VSCode
+- **Frameworks** React JS, React Native, Next JS
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/robertsiagian21/)
+- [Dribble](https://dribbble.com/uibetsq)
