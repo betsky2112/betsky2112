@@ -15,3 +15,5 @@ I'm a Front End Developer with a passion for for building scalable web applicati
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/robertsiagian21/)
 - [Dribble](https://dribbble.com/uibetsq)
+  
+![Betsky GitHub stats](https://github-readme-stats.vercel.app/api?username=betsky2112&show_icons=true&theme=radical)
