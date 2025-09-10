@@ -39,7 +39,6 @@ I'm a **Full Stack Web Developer** with a passion for building scalable web appl
 
 ## 🚀 Projects
 - [Todo App](https://github.com/betsky2112/react-todo-app) - A todo app tool built React JS.
-- [Portfolio Website](https://github.com/betsky2112/my-portfolio) - A responsive portfolio website tool built React JS.
 
 ## 📊 GitHub Stats
 ![Robert Siagian GitHub stats](https://github-readme-stats.vercel.app/api?username=betsky2112&show_icons=true&theme=radical)
