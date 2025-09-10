@@ -1,9 +1,6 @@
 # Hi there, I'm Robert Siagian 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=betsky2112&style=flat-square&color=blue) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/robertsiagian21/)
-[![Dribbble](https://img.shields.io/badge/Dribbble-Follow-pink)](https://dribbble.com/uibetsq)
-[![Website](https://img.shields.io/badge/Website-Visit-green)](https://betsky.me/)
 
 ## About Me
 I'm a **Full Stack Web Developer** with a passion for building scalable web applications and exploring new technologies.
